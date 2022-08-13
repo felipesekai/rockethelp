@@ -11,11 +11,11 @@
     ],
     "android": {
       "package": "com.felipesekai.rockethelp",
-      "googleServicesFile": "./google-services.json"
+      "googleServicesFile": "./.envi/firebase/google-services.json"
     },
     "ios": {
       "bundleIdentifier": "com.felipesekai.rockethelp",
-      "googleServicesFile": "./GoogleService-Info.plist"
+      "googleServicesFile": "./.envi/firebase/GoogleService-Info.plist"
     }
   }
 }
